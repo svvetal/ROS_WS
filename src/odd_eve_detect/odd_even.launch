@@ -1,0 +1,7 @@
+<launch>
+
+    <node name="integer_generator" pkg="odd_eve_detect" type="integer_generator.py" output="screen"/>
+
+    <node name="odd_eve_classifier" pkg="odd_eve_detect" type="odd_eve_classifier.py" output="screen"/>
+
+</launch>

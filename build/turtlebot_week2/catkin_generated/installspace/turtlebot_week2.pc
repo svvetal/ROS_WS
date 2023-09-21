@@ -1,0 +1,8 @@
+prefix=/home/shubham/catkin_ws/install
+
+Name: turtlebot_week2
+Description: Description of turtlebot_week2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

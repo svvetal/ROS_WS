@@ -1,0 +1,8 @@
+prefix=/home/shubham/catkin_ws/devel
+
+Name: odd_eve_detect
+Description: Description of odd_eve_detect
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
